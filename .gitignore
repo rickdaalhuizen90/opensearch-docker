@@ -1,0 +1,8 @@
+*
+
+!.github/
+!.github/workflows
+!.github/workflows/*.yml
+!.gitignore
+!Dockerfile
+!README.md
